@@ -7,7 +7,7 @@
   5. Mention the tools used
   6. Mention about the future scope
   7. Complete with a thank you note
-  8. Add a description
+  8. Add description, not here in About option
 -->
 
 # 🚑Ambulance Path Analysis and Optimization using Network Analysis
