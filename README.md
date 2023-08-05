@@ -1,7 +1,6 @@
 <!--
   TO DO:
   4. Mention the other contributors
-  7. Complete with a thank you note
   8. Add description, not here in About option
 -->
 
@@ -56,3 +55,6 @@ The real - world road networks consists of thousands of places and tens thousand
 5. **_Gephi Report_** : This file contains the report given by the gephi software for the network used. The report included figures like degree denesity, egien value, etc. 
 > Google Drive link for Gephi Report : _https://docs.google.com/document/d/1ascM9_nuIKsRqfUmRFu8ztdqy6SthFpx/edit?usp=sharing&ouid=101709113665738616818&rtpof=true&sd=true_
 
+
+## Thank You
+I convey my thanks to everyone who have viewed my repository or read even a single line of the README. It would be great if any of you have any suggestions on adding new featues, we can connect and make this model even better.
