@@ -1,6 +1,5 @@
 <!--
   TO DO:
-  3. Remove the Gephi_report.docx file and attach a gdrive link for it here
   4. Mention the other contributors
   7. Complete with a thank you note
   8. Add description, not here in About option
@@ -54,3 +53,6 @@ The real - world road networks consists of thousands of places and tens thousand
 2. **_Edge_data_** : This contains the network in the form of a excel spreadsheet. There are two columns, _from_ and _to_ columns specifies the nodes of each edge in the network.
 3. **_Flow Chart_** : This image depicts the overall flow of the model.
 4. **_Node_label_** : This excel spreadsheet contains the labels associated with each node. There are three labels which are _Hospital_, _Accident Prone Zone_, _Normal Place_.
+5. **_Gephi Report_** : This file contains the report given by the gephi software for the network used. The report included figures like degree denesity, egien value, etc. 
+> Google Drive link for Gephi Report : _https://docs.google.com/document/d/1ascM9_nuIKsRqfUmRFu8ztdqy6SthFpx/edit?usp=sharing&ouid=101709113665738616818&rtpof=true&sd=true_
+
