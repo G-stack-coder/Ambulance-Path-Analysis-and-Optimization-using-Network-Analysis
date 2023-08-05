@@ -1,7 +1,6 @@
 <!--
   TO DO:
   4. Mention the other contributors
-  8. Add description, not here in About option
 -->
 
 # 🚑Ambulance Path Analysis and Optimization using Network Analysis
